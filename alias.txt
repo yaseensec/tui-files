@@ -1,0 +1,149 @@
+
+#A - 5
+
+af=AFWall+
+am=amaze
+as=Aurora Store
+aw=AdAway
+otp=andOTP
+
+#B - 1
+
+bg=Battlegrounds India
+
+#C - 4
+
+ck=Clock
+cs=Contacts
+ct=Calculator
+ci=cpu info
+
+#D - 1
+
+dbs=DBS India
+
+#E - 1
+
+e=easer(beta)
+
+#F - 5
+
+f=Firefox
+fd=F-Droid
+fe=Fairemail
+fm=Fm Radio
+fs=Files
+
+#G - 2
+
+gc=ghost commander
+gt=githo
+gms=microGsettings
+
+#H - 1
+
+h=Hackers
+
+#I - 2
+
+in=Instagram
+ir=irctc rail connect
+
+#J - 0
+
+#K - 1
+
+kb=Kotak Bank
+
+#L - 2
+
+g=Leafpic revived
+ln=LinkedIn
+
+#M - 6
+
+mm=magisk
+ma=M.A.L.P.
+m=mpd
+mp=mpv
+mu=mupdf mini
+sms=messaging
+
+#N - 2
+
+n=newpipe
+nu=naukri.com
+
+#O - 3
+
+c=OpenCamera
+oy=odyssey
+o=orbot
+
+#P - 4
+
+ph=Phone
+pp=Phonepe
+pm=protonmail
+pv=ProtonVPN
+
+#Q
+
+#R - 1
+
+r=Recorder
+rr=Real Racing 3
+
+#S - 9
+
+s=Signal
+sh=Shelter
+sn=Snapchat
+st=Settings
+stk=Sim Toolkit
+sz=Shazam
+sr=screen recorder
+sk=simple keyboard
+slr=stellarium
+
+#T - 2
+
+tui=T-UI
+tx=termux
+tb=tor browser
+
+#U
+
+#V - 3
+
+v=Viper4Android Fx
+vm=Vanced Manager
+vt=videotranscoder
+
+#W - 1
+
+wa=com.whatsapp
+wt=where is my train
+whatsapp=echo "Bitch Please"
+
+#X
+
+#Y - 1
+
+yt=Youtube Vanced
+
+#Z - 1
+
+zm=Zoho Mail
+
+#T-UI Aliases
+
+cls=clear
+
+ref=refresh
+res=restart
+
+ssf=config -set show_suggestions false
+sst=config -set show_suggestions true
+
+
